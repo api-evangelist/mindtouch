@@ -1,0 +1,56 @@
+{
+    "name": "MindTouch",
+    "description": "MindTouch is intelligent knowledge software that improves support agent productivity, increases ticket deflection, and fuels self-service support.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/438-mindtouch.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mindtouch\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MindTouch",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/438-mindtouch.jpg",
+            "humanURL": "http:\/\/developer.mindtouch.com\/Deki_Wiki\/API_Reference",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mindtouch-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.mindtouch.com\/Deki_Wiki\/API_Reference"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.mindtouch.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.mindtouch.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/mindtouch"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mindtouch"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mindtouch"
+        }
+    ]
+}
